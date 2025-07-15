@@ -16,7 +16,11 @@ export default function Home() {
   }
    const mostrar2=()=>{
 
-    return(alert('click2'))
+    return()
+
+
+
+
 
   }
   return (
@@ -28,7 +32,7 @@ export default function Home() {
         <CustomButton click={mostrar1} label="tenho que aprender"/>
         <br />
         <CustomButton  click={mostrar2} label="tenho que aprender2"/>
-
+        <Nota nota={1} />
     </div>
 
 

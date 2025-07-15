@@ -16,7 +16,7 @@ export default function Home() {
   }
    const mostrar2=()=>{
 
-    return()
+    return(alert('MIO AMIGo'))
 
 
 

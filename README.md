@@ -18,9 +18,9 @@ HTML ( Tailwind CSS)
 
 TypeScript
 
-<img src="https://github.com/gilbertojr18/barra-de-foco/blob/main/public/1.jpeg" />
+<img src="https://github.com/gilbertojr18/barra-de-foco/blob/main/public/1.jpeg"  style="width:70px"/>
 <br>
-<img src="https://github.com/gilbertojr18/barra-de-foco/blob/main/public/2.jpeg" />
+<img src="https://github.com/gilbertojr18/barra-de-foco/blob/main/public/2.jpeg" style="width:70px" />
 <br>
-<img src="https://github.com/gilbertojr18/barra-de-foco/blob/main/public/3.jpeg" />
+<img src="https://github.com/gilbertojr18/barra-de-foco/blob/main/public/3.jpeg" style="width:70px" />
 

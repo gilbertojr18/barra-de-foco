@@ -30,7 +30,7 @@ export function Counter({ c }: Props) {
     return (
         <>
 
-                {cont===100 && <h1 className="text-3xl text-center" >🫵100% FOCADO 🫵 </h1>}
+                {cont===100 && <h1 className="text-3xl text-center" >🫵  100% FOCADO 🫵 </h1>}
             <div className="flex items-center gap-6 p-4">
                 {/* BARRA LATERAL */}
                 <div className="w-6 h-64 bg-black relative overflow-hidden rounded">
